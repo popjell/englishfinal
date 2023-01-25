@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "322364530075",
+    "project_id": "englishculm",
+    "storage_bucket": "englishculm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322364530075:android:3c26744e5f746736d5553e",
+        "android_client_info": {
+          "package_name": "com.example.english_culminating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322364530075-44cpmsj68c1m45or2s86ojbilai56qh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJF5QKoncmDm1Uo66pkbd2uBEFvkDrUjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322364530075-44cpmsj68c1m45or2s86ojbilai56qh5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322364530075-rjtqqrqg98scrgqe8dmv6c25dpi4je4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.englishCulminating"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
